@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Chxnedu
-- 🌱 I’m currently learning Cloud/DevOps Engineering
+- 👋 Hi, I’m Chinedu
+- 🌱 I am currently learning Cloud/DevOps Engineering
+- This is my github where I push my projects and learning notes to
 - 📫 How to reach me: Twitter @chxneduu
 
 <!---
