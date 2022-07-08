@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chinedu
 - 🤔 I am interested in Cloud, DevOps and SRE
-- 🌱 I am currently learning Kubernetes and Container Orchestration 
+- 🌱 I am currently learning CI/CD 
 - 📫 How to reach me: Twitter @chxneduu
 
 <!---
