@@ -1,9 +1,18 @@
+<h2> 🧐 About me </h2>
 - 👋 Hi, I’m Chinedu
 - 🤔 I am interested in Cloud, DevOps and SRE
-- 🌱 I am currently learning CI/CD 
-- 📫 How to reach me: Twitter @chxneduu
+- 🌱 I am currently learning CI/CD and Ansible
+- 📫 How to reach me: ojichinedu4@gmail.com
 
-<!---
-Chxnedu/Chxnedu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>💻 My current tech stack </h2>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="45" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="45" width="45" />
+</p>
+
+<h2> 🤖Github Stats! </h2>
+[![Chxnedu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chxnedu&show_icons=true)](https://github.com/chxnedu/github-readme-stats)
