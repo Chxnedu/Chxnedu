@@ -14,5 +14,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="45" width="45" />
 </p>
 
-<h2> 🤖Github Stats! </h2>
-[![Chxnedu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chxnedu&show_icons=true)](https://github.com/chxnedu/github-readme-stats)
+
