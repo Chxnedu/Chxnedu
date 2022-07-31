@@ -1,5 +1,7 @@
 <h2> 🧐 About me </h2>
+
 - 👋 Hi, I’m Chinedu
+
 - 🤔 I am interested in Cloud, DevOps and SRE
 - 🌱 I am currently learning CI/CD and Ansible
 - 📫 How to reach me: ojichinedu4@gmail.com
