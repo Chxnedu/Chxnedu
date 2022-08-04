@@ -19,5 +19,5 @@
 
 <h2> 🤖 My GitHub Stats </h2>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=chxnedu)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chxnedu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=chxnedu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chxnedu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
